@@ -1,4 +1,4 @@
-# NumericIntegration_PI_
+# pi-numeric-integration-multithread
 
 This project contains 3 c programs.
 
